@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:/C:/Users/OmarDesktop/Practica/ejemplo1.xsl"?>
+<Juegos>
+<Juego>
+  <nombre>FIFA 2022</nombre>
+  <Clasificacion>Deporte</Clasificacion>
+</Juego>
+
+<Juego>
+<nombre>Call of Duty</nombre>
+<Clasificacion>Guerra</Clasificacion>
+</Juego>
+
+<Juego>
+<nombre>Outlast</nombre>
+<Clasificacion>Drama accion</Clasificacion>
+
+
+</Juego>
+
+</Juegos>
